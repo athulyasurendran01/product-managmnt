@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+}
+
+#header_section{
+    background: tomato;
+    color: white;
+}
+
+#header_section ul{
+    display: inline-flex;
+    list-style-type: none;
+}
+
+#header_section ul li{
+    padding: 12px;
+}
+
+#section_area{
+    background: #c62828;
+    text-align: center;
+    height: 400px;
+    padding: 1px;
+}
+
+#section_area div {
+    padding: 10%;
+}
+
+#section_area h3{
+    color: white;
+    font-size: 40px;
+}
+
+#section_area p{
+    color: white;
+}
+
+#section_area button{
+    background: black;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+
+.carousel-item img{
+   height: 400px; 
+}
